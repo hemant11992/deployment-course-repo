@@ -1,1 +1,2 @@
 this is my simple text file
+this is my simple text file with new file
